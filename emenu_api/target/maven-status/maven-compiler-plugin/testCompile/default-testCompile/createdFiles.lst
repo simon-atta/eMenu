@@ -1,0 +1,6 @@
+com/emenu/model/order/RestaurantOrderStatusTest.class
+com/emenu/repo/RestaurantTableRepositoryTest.class
+com/emenu/model/RestaurantTableTest.class
+com/emenu/services/RestaurantTableServiceTest.class
+com/EmenuApiApplicationTests.class
+com/emenu/TestUtil.class

@@ -1,0 +1,20 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="ehcache.xsd">
+
+	<cache name="tables" maxEntriesLocalHeap="100" timeToLiveSeconds="600">
+	</cache>
+
+	<cache name="sections" maxEntriesLocalHeap="10"
+		timeToLiveSeconds="600">
+	</cache>
+	
+	
+	<cache name="menus" maxEntriesLocalHeap="10"
+		timeToLiveSeconds="600">
+	</cache>
+	
+	<cache name="waiters" maxEntriesLocalHeap="10"
+		timeToLiveSeconds="600">
+	</cache>
+	
+</ehcache>
